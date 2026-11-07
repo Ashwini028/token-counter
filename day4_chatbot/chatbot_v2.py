@@ -26,7 +26,7 @@ chat = make_chat()
 
 
 
-def ask_llm(text):
+def ask_llm(text):  # sends one message, prints token usage, and trims old history
     global chat
     response = chat.send_message(text)
     usage = response.usage_metadata

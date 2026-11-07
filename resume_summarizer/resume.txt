@@ -1,0 +1,5 @@
+Ashwini Dhomne.
+B.E. in Computer Science, 2022.
+Skills: Python, SQL, Pandas, NumPy, Machine Learning, NLP.
+Data Science and Analytics Intern, 3 months: built time series forecasting and a chatbot.
+AIML with Data Science Intern, 3 months: data preprocessing and predictive models.
